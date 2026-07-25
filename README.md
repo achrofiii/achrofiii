@@ -38,13 +38,19 @@ motto: "Ngoding santai, hasil serius. 🔥"
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=achrofiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="75%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=achrofiii&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&count_private=true&include_all_commits=true" width="65%"/>
 
-<img src="https://streak-stats.demolab.com/?user=achrofiii&theme=tokyonight&hide_border=true" width="75%"/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrofiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="75%"/>
+<img src="https://streak-stats.demolab.com/?user=achrofiii&theme=dark&hide_border=false&border=ffffff&background=000000" width="65%"/>
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrofiii&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&langs_count=8" width="65%"/>
+
+<br/>
 </div>
 
 ---
@@ -56,8 +62,6 @@ motto: "Ngoding santai, hasil serius. 🔥"
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <!--END_SECTION:snake-->
-
-<sub>*(Aktif otomatis setelah setup GitHub Action "snk" — cara setup ada di bawah 👇)*</sub>
 
 </div>
 
