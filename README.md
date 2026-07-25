@@ -1,9 +1,130 @@
-# 💫 About Me:
-🎓 Informatics Engineering Student<br>💻 Fullstack Enthusiast | Frontend & Backend Developer<br>🎨 UI/UX Design Passionate<br>🚀 Currently learning and building real projects<br>📍 Focus on web development using Laravel, React, and modern design tools<br>📬 Open for collaboration and discussion — let's grow together!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Achroful%20Anam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20UI%2FUX%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1AV3hbisDL/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/achrofiii_?igsh=YXZ2bnpycnYzbTht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ach-rofi-i-234996282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@abcdefiiiii_?_t=ZS-8wcgz20sCV5&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/achrofiiiii?t=vTEEHwQMGdKMpbPHYHJn9A&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@achrfii?si=8poRmmTfEDJknI1_) 
+<br/>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Hai%2C+aku+Achroful+Anam+%F0%9F%91%8B;Informatics+Engineering+Student;Laravel+%2B+MySQL+%2B+Spatie+Permissions;Building+SIAKAD+%26+SPK+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=achrofiii&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/achrofiii?style=for-the-badge&color=1e3c72&labelColor=black)
+
+</div>
+
+---
+
+## 🧠 Tentang Aku
+
+```yaml
+nama: "Achroful Anam"
+kampus: "Universitas Bahaudin Mudhary Madura (UNIBA Madura)"
+jurusan: "Teknik Informatika"
+status: "Undergraduate Student — Skripsi Phase"
+fokus: ["Web Development", "Fullstack Laravel", "UI/UX Design", "SPK / Decision Support System"]
+motto: "Ngoding santai, hasil serius. 🔥"
+sedang_dikerjakan: "SIAKAD Pondok Pesantren + Sistem Pendukung Keputusan (TOPSIS)"
+```
+
+- 🎓 Mahasiswa Informatika, lagi di fase penyelesaian **skripsi**
+- 🕌 Bikin **SIAKAD berbasis web** untuk Pondok Pesantren pakai Laravel, MySQL, dan Spatie Permissions
+- 📊 Ngulik metode **TOPSIS** buat sistem ranking santri
+- 🎨 Suka desain UI/UX pakai Figma & Canva sebelum turun ke kode
+- 🌱 Lagi jalanin project pribadi: **1 aplikasi web per minggu**, dari CRUD simple sampe sistem multi-role
+- 💬 Terbuka buat kolaborasi, diskusi, atau sekadar ngobrol soal project bareng
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,mysql,bootstrap,git,github,figma,vscode,apache,codeigniter&theme=dark" />
+
+</div>
+
+<div align="center">
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=achrofiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achrofiii&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrofiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
+
+</div>
+
+---
+
+## 🌾 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--END_SECTION:snake-->
+
+<sub>*(Otomatis muncul setelah setup GitHub Action "snk" — cara setup ada di bagian bawah 👇)*</sub>
+
+</div>
+
+---
+
+## 🏆 Trophy Room
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=achrofiii&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 Sedang Dibangun
+
+| Project | Deskripsi | Status |
+|---|---|---|
+| 🕌 SIAKAD Pesantren | Sistem Informasi Akademik multi-role (Admin, Pengajar, Santri, Wali) + SPK TOPSIS | 🟢 In Progress |
+| 📦 Weekly Laravel Build | 1 aplikasi Laravel per minggu, dari CRUD → sistem kompleks | 🟡 Ongoing |
+| 🎨 UI/UX Playground | Eksperimen desain di Figma sebelum jadi kode | 🔵 Exploring |
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+
+*"Ngoding bukan cuma soal syntax, tapi soal solusi." — Achroful Anam*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+
+</div>
