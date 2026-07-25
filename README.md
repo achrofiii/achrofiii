@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Tentang Aku
+## 🧠 About me
 
 ```yaml
 nama: "Ach. Rofi'i"
