@@ -40,15 +40,12 @@ motto: "Ngoding santai, hasil serius. 🔥"
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=achrofiii&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&count_private=true&include_all_commits=true" width="65%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=achrofiii&show_icons=true&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&count_private=true&include_all_commits=true" width="380"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=achrofiii&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&langs_count=4" width="380"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=achrofiii&theme=dark&hide_border=false&border=ffffff&background=000000" width="65%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrofiii&layout=compact&theme=dark&hide_border=false&border_color=ffffff&bg_color=000000&langs_count=8" width="65%"/>
 
 <br/>
 </div>
