@@ -19,7 +19,7 @@
 nama: "Ach. Rofi'i"
 kampus: "Universitas Bahaudin Mudhary Madura (UNIBA Madura)"
 jurusan: "Teknik Informatika"
-fokus: ["Web Development", "Fullstack Laravel", "UI/UX Design", "SPK / Decision Support System"]
+fokus: ["Web Development", "Fullstack", "UI/UX Design"]
 motto: "Ngoding santai, hasil serius. 🔥"
 ```
 
