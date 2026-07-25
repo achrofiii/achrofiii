@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Ach.%20Rofi'i&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20UI%2FUX%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Hey+there+%F0%9F%91%8B+Welcome+to+my+profile!;Currently+building+SIAKAD+%26+SPK+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=550&height=45&lines=Hey+there+%F0%9F%91%8B+Welcome+to+my+profile!" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -39,10 +39,11 @@ motto: "Ngoding santai, hasil serius. 🔥"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=achrofiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=achrofiii&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=achrofiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="75%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrofiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=achrofiii&theme=tokyonight&hide_border=true" width="75%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achrofiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="75%"/>
 
 </div>
 
@@ -66,7 +67,7 @@ motto: "Ngoding santai, hasil serius. 🔥"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=achrofiii&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=achrofiii&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
